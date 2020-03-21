@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DS2E-ML2-DC12V)(type Legacy)(uri ${KIPRJMOD}/lib/DS2E-ML2-DC12V.lib)(options "")(descr ""))
+)
