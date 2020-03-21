@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Feu de signalisation"
 Date ""
-Rev ""
-Comp ""
+Rev "1A"
+Comp "Systemes trains - 2020"
 Comment1 ""
 Comment2 ""
 Comment3 ""
