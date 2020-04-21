@@ -396,7 +396,7 @@ U 1 1 5E5C2BB7
 P 5475 3950
 F 0 "RLY-B1" H 5475 4690 50  0000 C CNN
 F 1 "DS2E-ML2-DC12V" H 5475 4599 50  0000 C CNN
-F 2 "lib:DS2E-ML2-DC12V" V 4725 4000 50  0001 C CNN
+F 2 "Relay_THT:Relay_DPST_Fujitsu_FTR-F1A" V 4725 4000 50  0001 C CNN
 F 3 "https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf" V 4600 3900 50  0001 C CNN
 	1    5475 3950
 	1    0    0    -1  
@@ -407,7 +407,7 @@ U 1 1 5E5BF4E6
 P 5475 2450
 F 0 "RLY-A1" H 5475 3190 50  0000 C CNN
 F 1 "DS2E-ML2-DC12V" H 5475 3099 50  0000 C CNN
-F 2 "lib:DS2E-ML2-DC12V" V 4725 2500 50  0001 C CNN
+F 2 "Relay_THT:Relay_DPST_Fujitsu_FTR-F1A" V 4725 2500 50  0001 C CNN
 F 3 "https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf" V 4600 2400 50  0001 C CNN
 	1    5475 2450
 	1    0    0    -1  
@@ -418,7 +418,7 @@ U 1 1 5E5BE6E1
 P 5475 5450
 F 0 "RLY-C1" H 5475 6190 50  0000 C CNN
 F 1 "DS2E-ML2-DC12V" H 5475 6099 50  0000 C CNN
-F 2 "lib:DS2E-ML2-DC12V" V 4725 5500 50  0001 C CNN
+F 2 "Relay_THT:Relay_DPST_Fujitsu_FTR-F1A" V 4725 5500 50  0001 C CNN
 F 3 "https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf" V 4600 5400 50  0001 C CNN
 	1    5475 5450
 	1    0    0    -1  
